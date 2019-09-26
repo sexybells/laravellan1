@@ -14,5 +14,7 @@ class PosstTableSeeder extends Seeder
         factory(App\Post::class, 10)->create();
         factory(App\Post::class, 10)->create();
         factory(App\Post::class, 10)->create();
+        factory(App\Post::class, 10)->create();
+        factory(App\Post::class, 10)->create();
     }
 }
